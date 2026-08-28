@@ -1,0 +1,8 @@
+body{
+    background-color:azure;
+    align-items: center;
+}
+li.completed{
+    text-decoration:line-through;
+    color: grey;
+}
